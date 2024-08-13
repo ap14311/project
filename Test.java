@@ -18,8 +18,8 @@ public class Test {
 	   System.out.println("*******MENU*******");
 	   System.out.println("1.ADD_EMPLOYYEE");
 	   System.out.println("2.VIEW_EMPLOYEE");
-	   System.out.println("2.UPDATE_EMPLOYEE");
-	   System.out.println("2.REMOVE_EMPLOYEE");
+	   System.out.println("3.UPDATE_EMPLOYEE");
+	   System.out.println("4.REMOVE_EMPLOYEE");
 	   System.out.println("Enter Your Choice....");
 	   int ch=sc.nextInt();
 	   while(true)
